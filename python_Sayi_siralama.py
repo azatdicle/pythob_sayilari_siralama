@@ -24,6 +24,6 @@ while key<=adet:
         break
     
 liste.sort()
-print("Girdiginiz sayilarin kucukten buyuge siralanmasi {}".format(liste))
+print("Girdiginiz sayilarin kucukten buyuye siralanmasi {}".format(liste))
 liste.reverse()
-print("Girdiginiz sayilarin buyukten kucugre siralanmasi {}".format(liste))
+print("Girdiginiz sayilarin buyukten kuçuge siralanmasi {}".format(liste))
